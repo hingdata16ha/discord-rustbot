@@ -1,0 +1,6 @@
+[package]
+authors = ["Victor Nascimento Bakke <gipphe@gmail.com>"]
+name = "discord-rustbot"
+version = "0.1.0"
+
+[dependencies]
